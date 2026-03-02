@@ -1,0 +1,5 @@
+[
+  "tests/test_logic.py::test_add_task",
+  "tests/test_logic.py::test_complete_task",
+  "tests/test_logic.py::test_delete_task"
+]
